@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: Config_Default   # This is the name of your service (important for Config Server & Eureka)
 
 eureka:
   instance:
